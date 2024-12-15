@@ -39,3 +39,17 @@ A new path may lead to new discoveries. Branch out and leave your mark.
     git commit -m "Found the next piece! Part 3: IS"
     ```
 Use `git log` to find the treasure in the commit message.
+
+## Level 4: Creating a Pull Request
+
+Share your findings with the world. A request for integration is the final step.
+
+**Task:** Create a pull request from your `treasure-hunt` branch.
+
+**Treasure:** `part4.txt` will be revealed after the PR is merged.
+
+**Instructions:**
+1. Push your branch: `git push origin treasure-hunt`
+2. Create a pull request on GitHub to the original repository.
+
+Once the PR is merged, the final piece will appear in the main branch.
